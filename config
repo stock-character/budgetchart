@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+	precomposeunicode = true
+[remote "origin"]
+	url = https://github.com/Yahya-Cheikh-Maazouz/order-fiverr-angular-dash.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
